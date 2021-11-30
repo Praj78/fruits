@@ -5,8 +5,13 @@ const list={
   "🍒":"cherry",
   "🍇":"grapes",
   "🍓":"strawberry",
-  "🍉":"watermelon"
-  
+  "🍉":"watermelon",
+  "🍍":"pineapple",
+  "🍐":"pear",
+  "🥑":"butter fruit",
+  "🍌":"banana",
+  "🌽":"corn",
+  "🥝":"kiwi"
 }
  var emojisweknow=(Object.keys(list))
 
@@ -40,3 +45,4 @@ setMeaning(arth)
     </div>
   );
 }
+
